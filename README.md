@@ -1,8 +1,8 @@
-# smartcondo - Homeowner Association Management on the Cardano Blockchain**
+# smartcondo - Homeowner Association Platform using Cardano Blockchain
 
 ## Abstract
 
-SmartCondo is a blockchain-based software solution designed to streamline the management of shared properties like condominiums. Leveraging the Cardano blockchain, SmartCondo provides a secure and transparent platform for homeowner associations (HOAs) to manage their community's needs efficiently.
+SmartCondo is a blockchain-based software solution designed to streamline operation of shared properties like condominiums. Leveraging the Cardano blockchain, SmartCondo provides a secure and transparent platform for homeowner associations (HOAs) to manage their community's needs efficiently.
 
 ## I. Introduction
 
