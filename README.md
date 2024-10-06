@@ -21,11 +21,16 @@ SmartCondo, a blockchain-based software solution, is designed to address these c
 
 Homeowners associations (HOAs) are private governance entities that have become increasingly prevalent in the United States, managing a significant proportion of residential developments (McCabe, 2011; Nelson, 2011). These organizations have the potential to promote urban biodiversity by implementing landscape designs that support native wildlife habitats (Lerman et al., 2012). HOAs are replacing public zoning as the primary instrument for controlling property interdependencies in residential neighborhoods (Nelson, 2011). However, the concept of HOAs in China differs from Western private governance models, as they serve to balance market forces and state power while addressing homeowners' political and material needs (He, 2015). Despite their growing importance, HOAs have received limited attention from public affairs scholars (McCabe, 2011). The governance efficacy of HOAs in China can be explained through collective action theory, although state power and market forces also influence decision-making processes (He, 2015).
 
-### Overview of the Cardano blockchain and its features
-
 ### Benefits of using blockchain technology for HOA management
 Blockchain technology offers promising solutions for homeowner association management and related real estate applications. Smart contracts on the Ethereum network can enhance transparency and reduce fraud in strata fee management for condominiums (Scholte et al., 2023). In residential buildings, blockchain-based systems can optimize energy consumption, improve thermal comfort, and reduce peak-to-average power ratios (Kolahan et al., 2021). For community microgrids, blockchain enables distributed demand-side management, allowing smart homes to minimize electricity costs through energy consumption games and renewable energy integration (Afzal et al., 2020). In the broader real estate industry, blockchain platforms can address issues such as high transaction fees, lack of transparency, and fraud by utilizing smart contracts, immutable record management, and time-stamped storage (Ahmad et al., 2021). These applications demonstrate blockchain's potential to revolutionize various aspects of property management and real estate transactions.
 
+## Overview of the Cardano Blockchain and Its Features
+
+The Cardano blockchain is a proof-of-stake (PoS) platform that provides a secure, decentralized, and sustainable environment for the development of decentralized applications (dApps). Founded on peer-reviewed research and developed through evidence-based methods, Cardano is uniquely positioned to address the complex needs of modern blockchain systems.
+
+By leveraging the Cardano blockchain, SmartCondo can provide a secure, transparent, and efficient platform for HOA management, enabling homeowners to participate in decision-making processes and access community resources in a trustless and decentralized manner.
+
+The combination of Cardano's innovative features and SmartCondo's blockchain-based software solution has the potential to revolutionize the way HOAs operate, promoting transparency, accountability, and community engagement.
 
 ## III. **System Architecture**
 
